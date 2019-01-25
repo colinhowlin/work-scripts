@@ -1,3 +1,8 @@
+IP 1.3.6.1.4.1.161.19.3.2.1.11.0
+snmpset - c Canopy -v 2c ${IP} 1.3.6.1.4.1.161.19.3.2.1.11.0 
+
+GW 1.3.6.1.4.1.161.19.3.2.1.5.0
+
 CNMAESTRO OID's:
 1. Enable cnMaestro
 snmpset -c Canopy -v 2c ${IP} 1.3.6.1.4.1.161.19.3.3.2.257.0 i 1
